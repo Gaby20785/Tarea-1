@@ -1,2 +1,5 @@
 # Tarea-1
-Códigos usados en Tarea 1 de INF221.
+
+**Nombre:** Gabriela Yáñez
+
+**Rol:** 202273511-2
