@@ -10,6 +10,12 @@ Todos los códigos fueron compilados en Ubuntu, con el comando:
 
 g++ -Wall -o ejecutable nombre_archivo.cpp
 
+Y luego fueron ejecutados con:
+
+./ejecutable o ./ejecutable > resultados.txt
+
+Dependiendo si se quería redirigir la salida a un archivo de texto. Es importante tener los archivos con los Datasets base en la misma carpeta que el ejecutable antes de ejecutar los programas.
+
 ## Fuentes
 
 Algoritmos de ordenamiento:
