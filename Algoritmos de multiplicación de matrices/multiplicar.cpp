@@ -62,12 +62,12 @@ int main (int argc, char* argv[])
     cout << "Ingrese el tamaño de la matriz: " << endl;
     cin >> dim;
 
-	vector<int> inside (dim);
+    vector<int> inside (dim);
 
-	// inicialización de matrices
-	vector< vector<int> > A (dim, inside);
-	vector< vector<int> > B (dim, inside);
-	vector< vector<int> > C (dim, inside);
+    // inicialización de matrices
+    vector< vector<int> > A (dim, inside);
+    vector< vector<int> > B (dim, inside);
+    vector< vector<int> > C (dim, inside);
 
     int numero;
 
